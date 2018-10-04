@@ -1,0 +1,7 @@
+server:
+  port: 8081
+app:
+  name: Trading Application
+
+cronconfig:
+  cron: 0/30 * * * * *
